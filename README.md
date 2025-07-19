@@ -7,7 +7,8 @@ This project aims to detect fraudulent transactions for a financial company usin
 ## 📁 Dataset
 
 - **Format**: CSV  
-- **Size**: 6,362,620 rows × 10 columns  
+- **Size**: 6,362,620 rows × 10 columns
+- **Download**: [Click here to download from Google Drive](https://drive.google.com/drive/folders/1SEwQuk7kiHgUTIEVl0YzedOVfrbFfGym?usp=sharing)   
 - **Columns**:
   - `step`: Time step (hour)
   - `type`: Transaction type
